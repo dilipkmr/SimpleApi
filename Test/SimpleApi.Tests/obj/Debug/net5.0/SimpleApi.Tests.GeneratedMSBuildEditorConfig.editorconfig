@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = SimpleApi.Tests
-build_property.ProjectDir = d:\CAC2022\Azure\Test\SimpleApi.Tests\
+build_property.ProjectDir = D:\CAC2022\Azure\Test\SimpleApi.Tests\
